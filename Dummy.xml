@@ -1,0 +1,57 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="com.akamai.pulsar.framework.SPE">
+
+
+
+<test name="CreateSPEPolicy">
+    <classes>
+        <class name="com.akamai.pulsar.framework.SPE.CreateSPEPolicy" ></class>  
+    </classes>
+</test>
+
+
+
+
+<!-- 
+
+<test name="Retriving Audience Data Store Detail">
+    <classes>
+        <class name="com.akamai.LunaAPIAutomation.Framework.MediaAnalytics.Fetch_all_Assignments_based_on_Policy_id" ></class>  
+    </classes>
+</test>
+
+
+<test name="Retriving Audience All Data Stores">
+    <classes>
+        <class name="com.akamai.LunaAPIAutomation.Framework.MediaAnalytics.Audience_RetrievingAllDataStores" ></class>  
+    </classes>
+</test>
+
+
+<test name="Retriving Audience All Report Packs">
+    <classes>
+        <class name="com.akamai.LunaAPIAutomation.Framework.MediaAnalytics.Audience_RetrievingAllReportPacks" ></class>  
+    </classes>
+</test>
+
+<test name="Retriving Audience Report Pack Detail">
+    <classes>
+        <class name="com.akamai.LunaAPIAutomation.Framework.MediaAnalytics.Audience_RetrievingReportPackDetail" ></class>  
+    </classes>
+</test>
+
+
+ 
+
+
+
+
+ -->
+
+
+
+
+
+
+</suite>
+

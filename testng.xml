@@ -1,15 +1,11 @@
-<suite name="My suite">
-
- <listeners>
-        <listener class-name="com.akamai.LunaAPIAutomation.Framework.Listener.CustomListener"/>
-   
-  </listeners>
- 
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="com.akamai.Testng123">
 
 
-  <suite-files>
- 
-   <suite-file path="./Dummy.xml" />
-   
-  </suite-files>
+
+<test name="CreateSPEPolicy">
+    <classes>
+        <class name="com.akamai.Testng123.Hello" ></class>  
+    </classes>
+</test>
 </suite>

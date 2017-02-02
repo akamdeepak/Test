@@ -2,20 +2,20 @@
 <testng-results skipped="0" failed="0" total="2" passed="2">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="29" started-at="2016-11-16T05:16:05Z" finished-at="2016-11-16T05:16:05Z">
+  <suite name="com.akamai.Testng123" duration-ms="27" started-at="2017-02-02T10:36:24Z" finished-at="2017-02-02T10:36:25Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="29" started-at="2016-11-16T05:16:05Z" finished-at="2016-11-16T05:16:05Z">
+    <test name="CreateSPEPolicy" duration-ms="27" started-at="2017-02-02T10:36:24Z" finished-at="2017-02-02T10:36:25Z">
       <class name="com.akamai.Testng123.Hello">
-        <test-method status="PASS" signature="test1()[pri:0, instance:com.akamai.Testng123.Hello@5cc7c2a6]" name="test1" duration-ms="11" started-at="2016-11-16T10:46:05Z" finished-at="2016-11-16T10:46:05Z">
+        <test-method status="PASS" signature="test1()[pri:0, instance:com.akamai.Testng123.Hello@2344fc66]" name="test1" duration-ms="9" started-at="2017-02-02T16:06:25Z" finished-at="2017-02-02T16:06:25Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test1 -->
-        <test-method status="PASS" signature="test2()[pri:0, instance:com.akamai.Testng123.Hello@5cc7c2a6]" name="test2" duration-ms="2" started-at="2016-11-16T10:46:05Z" finished-at="2016-11-16T10:46:05Z">
+        <test-method status="PASS" signature="test2()[pri:0, instance:com.akamai.Testng123.Hello@2344fc66]" name="test2" duration-ms="1" started-at="2017-02-02T16:06:25Z" finished-at="2017-02-02T16:06:25Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test2 -->
       </class> <!-- com.akamai.Testng123.Hello -->
-    </test> <!-- Default test -->
-  </suite> <!-- Default suite -->
+    </test> <!-- CreateSPEPolicy -->
+  </suite> <!-- com.akamai.Testng123 -->
 </testng-results>
