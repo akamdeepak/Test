@@ -1,21 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="0" total="2" passed="2">
+<testng-results skipped="0" failed="0" total="3" passed="3">
   <reporter-output>
   </reporter-output>
-  <suite name="com.akamai.Testng123" duration-ms="27" started-at="2017-02-02T10:36:24Z" finished-at="2017-02-02T10:36:25Z">
+  <suite name="Default suite" duration-ms="3027" started-at="2017-02-02T12:56:54Z" finished-at="2017-02-02T12:56:58Z">
     <groups>
     </groups>
-    <test name="CreateSPEPolicy" duration-ms="27" started-at="2017-02-02T10:36:24Z" finished-at="2017-02-02T10:36:25Z">
+    <test name="Default test" duration-ms="3027" started-at="2017-02-02T12:56:54Z" finished-at="2017-02-02T12:56:58Z">
       <class name="com.akamai.Testng123.Hello">
-        <test-method status="PASS" signature="test1()[pri:0, instance:com.akamai.Testng123.Hello@2344fc66]" name="test1" duration-ms="9" started-at="2017-02-02T16:06:25Z" finished-at="2017-02-02T16:06:25Z">
+        <test-method status="PASS" signature="Launchssss()[pri:0, instance:com.akamai.Testng123.Hello@523884b2]" name="Launchssss" duration-ms="3008" started-at="2017-02-02T18:26:55Z" finished-at="2017-02-02T18:26:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Launchssss -->
+        <test-method status="PASS" signature="test1()[pri:0, instance:com.akamai.Testng123.Hello@523884b2]" name="test1" duration-ms="1" started-at="2017-02-02T18:26:58Z" finished-at="2017-02-02T18:26:58Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test1 -->
-        <test-method status="PASS" signature="test2()[pri:0, instance:com.akamai.Testng123.Hello@2344fc66]" name="test2" duration-ms="1" started-at="2017-02-02T16:06:25Z" finished-at="2017-02-02T16:06:25Z">
+        <test-method status="PASS" signature="test2()[pri:0, instance:com.akamai.Testng123.Hello@523884b2]" name="test2" duration-ms="1" started-at="2017-02-02T18:26:58Z" finished-at="2017-02-02T18:26:58Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test2 -->
       </class> <!-- com.akamai.Testng123.Hello -->
-    </test> <!-- CreateSPEPolicy -->
-  </suite> <!-- com.akamai.Testng123 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
 </testng-results>
