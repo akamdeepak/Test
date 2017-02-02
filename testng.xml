@@ -1,0 +1,15 @@
+<suite name="My suite">
+
+ <listeners>
+        <listener class-name="com.akamai.LunaAPIAutomation.Framework.Listener.CustomListener"/>
+   
+  </listeners>
+ 
+
+
+  <suite-files>
+ 
+   <suite-file path="./Dummy.xml" />
+   
+  </suite-files>
+</suite>
